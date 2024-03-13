@@ -1,6 +1,8 @@
 # linux快捷键设置
 https://zsh.sourceforge.io/Guide/zshguide04.html 如何给 shell 自定义快捷键
+
 https://zhuanlan.zhihu.com/p/483983008 如何给 shell 自定义快捷键
+
 https://www.runoob.com/w3cnote/bash-shortcut.html binkkey教程
 ## 复制粘贴
 gnome默认终端的复制快捷键是ctrl+shift+c，如果改为ctrl+c的话就覆盖了终端驱动设置的ctrl+c（取消），因此不应该更改为ctrl+c 
