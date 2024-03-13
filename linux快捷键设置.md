@@ -11,5 +11,7 @@ gnome应用默认复制键是ctrl+c，无法更改。
 - 修改 终端复制快捷键不变（ctrl+shift+c），粘贴改为ctrl+v
 ## shell快捷键
 >bindkey '^f' backward-word
+
 >bindkey '^j' forward-word
+
 >bindkey '^w' kill-word
